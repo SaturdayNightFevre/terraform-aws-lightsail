@@ -11,8 +11,8 @@ resource "aws_lightsail_instance" "lightsail" {
 }
 
 resource "aws_lightsail_key_pair" "lightsail_key_pair" {
-  count          = var.create_key_pair ? 1 : 0
-  name = var.key_pair
+  count = var.create_key_pair ? 1 : 0
+  name  = var.key_pair
 }
 
 ###################################Networking#################################
