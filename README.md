@@ -42,9 +42,9 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_instance_arn"></a> [instance\_arn](#output\_instance\_arn) | n/a |
-| <a name="output_instance_name"></a> [instance\_name](#output\_instance\_name) | n/a |
-| <a name="output_instance_private_ip"></a> [instance\_private\_ip](#output\_instance\_private\_ip) | n/a |
-| <a name="output_instance_public_ip"></a> [instance\_public\_ip](#output\_instance\_public\_ip) | n/a |
-| <a name="output_instance_public_ports"></a> [instance\_public\_ports](#output\_instance\_public\_ports) | n/a |
+| <a name="output_instance_arn"></a> [instance\_arn](#output\_instance\_arn) | The Amazon Resource Name (ARN) of the Lightsail instance. |
+| <a name="output_instance_name"></a> [instance\_name](#output\_instance\_name) | The name of the Lightsail instance. |
+| <a name="output_instance_private_ip"></a> [instance\_private\_ip](#output\_instance\_private\_ip) | The private IP address of the Lightsail instance. |
+| <a name="output_instance_public_ip"></a> [instance\_public\_ip](#output\_instance\_public\_ip) | The public IP address of the Lightsail instance. |
+| <a name="output_instance_public_ports"></a> [instance\_public\_ports](#output\_instance\_public\_ports) | The public ports that are open on the Lightsail instance. |
 <!-- END_TF_DOCS -->
